@@ -1,0 +1,24 @@
+{
+    "products" : [
+        {
+            "name" : "Sandal Japit",
+            "price" : 12000,
+            "price_rupiah" : "Rp. 12.000",
+            "category" : {
+                "id" : 1,
+                "name" : "Sandal"
+            }
+        }
+    ],
+
+    "category" : [
+        {
+            "id" : 1,
+            "name" : "Sandal"
+        },
+        {
+            "id" : 2,
+            "name" : "Tas"
+        }
+    ]
+}
