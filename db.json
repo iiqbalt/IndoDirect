@@ -51,5 +51,20 @@
             "id" : 2,
             "name" : "Tas"
         }
+    ],
+
+    "banner" : [
+        {
+            "image" : "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/banner/banner1.png",
+            "title" : "Indonesia Direct"
+        },
+        {
+            "image" : "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/banner/banner2.png",
+            "title" : "Pacific Exposition 2021"
+        },
+        {
+            "image" : "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/banner/banner3.png",
+            "title" : "InsiDer with Mintaraga"
+        }
     ]
 }
