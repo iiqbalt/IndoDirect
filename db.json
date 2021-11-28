@@ -1,70 +1,318 @@
 {
-    "products" : [
+    "products": [
         {
-            "id" : 1,
-            "name" : "Sandal Japit",
-            "price" : 12000,
-            "price_rupiah" : "Rp. 12.000",
-            "category" : {
-                "id" : 1,
-                "name" : "Sandal"
+            "id": 1,
+            "name": "Xiaomi Wifi Repeater Pro Amplifier 300Mbps Dual Antena Original",
+            "price": 130000,
+            "price_rupiah": "Rp. 130.000",
+            "images" : [
+                "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/6/15/10d26259-4487-4a6d-be9f-097ea5386d4f.jpg",
+                "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2020/12/25/090ede76-6dee-4c54-8764-b573463ea1c2.jpg",
+                "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2020/12/25/c42b84f8-8120-4614-a4a5-7b033b0b7dfe.jpg"
+            ],
+            "detail" : "",
+            "category": {
+                "id": 1,
+                "name": "Elektronik"
             }
         },
         {
-            "id" : 2,
-            "name" : "Sandal Mahal",
-            "price" : 13000,
-            "price_rupiah" : "Rp. 13.000",
-            "category" : {
-                "id" : 1,
-                "name" : "Sandal"
+            "id": 4,
+            "name": "Sepatu Original Pria/Sepatu Sneakers Pria Terbaru H 3276 - navy, 44",
+            "price": 155000,
+            "price_rupiah": "Rp. 155.000",
+            "images" : [
+                "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/7/4/94873676-ed28-4f36-b0ec-4b43e955f938.jpg",
+                "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/7/4/5e353485-f482-4841-96c4-4fad0d1751e0.jpg"
+            ],
+            "detail" : "",
+            "category": {
+                "id": 3,
+                "name": "Sepatu"
             }
         },
         {
-            "id" : 3,
-            "name" : "Sandal Swallow",
-            "price" : 14000,
-            "price_rupiah" : "Rp. 14.000",
-            "category" : {
-                "id" : 1,
-                "name" : "Sandal"
+            "id": 2,
+            "name": "Eggel Active 2 Waterproof Portable Bluetooth Speaker",
+            "price": 299000,
+            "price_rupiah": "Rp. 299.000",
+            "images" : [
+                "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2020/11/9/c228f6fe-6b55-40a3-96ab-e0bc2a0ffd39.jpg",
+                "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2020/11/9/fc69ecc3-09a3-48cd-a9f2-d946e61d52ea.jpg",
+                "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2020/11/9/27742bcd-559c-4a7d-8b90-85ebc8a35c69.jpg"
+            ],
+            "detail" : "",
+            "category": {
+                "id": 1,
+                "name": "Elektronik"
             }
         },
         {
-            "id" : 4,
-            "name" : "Tas Slempang",
-            "price" : 25000,
-            "price_rupiah" : "Rp. 25.000",
-            "category" : {
-                "id" : 2,
-                "name" : "Tas"
+            "id": 3,
+            "name": "Philips Rice Cooker - Inner Pot 2L Bakuhanseki - HD3110/33",
+            "price": 265000,
+            "price_rupiah": "Rp. 265.000",
+            "images" : [
+                "https://images.tokopedia.net/img/cache/100-square/product-1/2020/8/10/17471812/17471812_f412f625-d443-4249-94b8-31db257d4fc7_1000_1000.webp?ect=3g",
+                "https://images.tokopedia.net/img/cache/100-square/product-1/2020/8/10/17471812/17471812_17519a25-b498-428c-90fb-257f34271bd8_1000_1000.webp?ect=3g"
+            ],
+            "detail" : "",
+            "category": {
+                "id": 2,
+                "name": "Dapur"
+            }
+        },
+        {
+            "id": 4,
+            "name": "Sepatu Original Pria/Sepatu Sneakers Pria Terbaru H 3276 - navy, 44",
+            "price": 155000,
+            "price_rupiah": "Rp. 155.000",
+            "images" : [
+                "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/7/4/94873676-ed28-4f36-b0ec-4b43e955f938.jpg",
+                "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/7/4/5e353485-f482-4841-96c4-4fad0d1751e0.jpg"
+            ],
+            "detail" : "",
+            "category": {
+                "id": 3,
+                "name": "Sepatu"
+            }
+        },
+        {
+            "id": 5,
+            "name": "Tp-link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi Router",
+            "price": 575000,
+            "price_rupiah": "Rp. 575.000",
+            "images" : [
+                "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/2/27/29534802-37d9-40b4-98df-e65974794ed9.jpg",
+                "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2020/10/29/d089bdc7-25f7-4829-bad0-505ee0bda0ea.jpg.webp?ect=3g"
+            ],
+            "detail" : "",
+            "category": {
+                "id": 1,
+                "name": "Elektronik"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Philips Rice Cooker - Inner Pot 2L Bakuhanseki - HD3110/33",
+            "price": 265000,
+            "price_rupiah": "Rp. 265.000",
+            "images" : [
+                "https://images.tokopedia.net/img/cache/100-square/product-1/2020/8/10/17471812/17471812_f412f625-d443-4249-94b8-31db257d4fc7_1000_1000.webp?ect=3g",
+                "https://images.tokopedia.net/img/cache/100-square/product-1/2020/8/10/17471812/17471812_17519a25-b498-428c-90fb-257f34271bd8_1000_1000.webp?ect=3g"
+            ],
+            "detail" : "",
+            "category": {
+                "id": 2,
+                "name": "Dapur"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Eggel Active 2 Waterproof Portable Bluetooth Speaker",
+            "price": 299000,
+            "price_rupiah": "Rp. 299.000",
+            "images" : [
+                "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2020/11/9/c228f6fe-6b55-40a3-96ab-e0bc2a0ffd39.jpg",
+                "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2020/11/9/fc69ecc3-09a3-48cd-a9f2-d946e61d52ea.jpg",
+                "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2020/11/9/27742bcd-559c-4a7d-8b90-85ebc8a35c69.jpg"
+            ],
+            "detail" : "",
+            "category": {
+                "id": 1,
+                "name": "Elektronik"
             }
         }
     ],
-
-    "category" : [
+    "category": [
         {
-            "id" : 1,
-            "name" : "Sandal"
+            "id": 1,
+            "name": "Elektronik",
+            "icon": "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/category/electronics.png"
         },
         {
-            "id" : 2,
-            "name" : "Tas"
+            "id": 2,
+            "name": "Dapur",
+            "icon": "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/category/kitchen.png"
+        },
+        {
+            "id": 3,
+            "name": "Sepatu",
+            "icon": "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/category/sneakers.png"
+        },
+        {
+            "id": 1,
+            "name": "Elektronik",
+            "icon": "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/category/electronics.png"
+        },
+        {
+            "id": 2,
+            "name": "Dapur",
+            "icon": "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/category/kitchen.png"
+        },
+        {
+            "id": 3,
+            "name": "Sepatu",
+            "icon": "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/category/sneakers.png"
         }
     ],
-
-    "banner" : [
+    "banner": [
         {
-            "image" : "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/banner/banner1.png",
-            "title" : "Indonesia Direct"
+            "image": "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/banner/banner1.png",
+            "title": "Indonesia Direct"
         },
         {
-            "image" : "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/banner/banner2.jpg",
-            "title" : "Pacific Exposition 2021"
+            "image": "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/banner/banner2.jpg",
+            "title": "Pacific Exposition 2021"
         },
         {
-            "image" : "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/banner/banner3.jpg",
-            "title" : "InsiDer with Mintaraga"
+            "image": "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/banner/banner3.jpg",
+            "title": "InsiDer with Mintaraga"
+        }
+    ],
+    "home": [
+        {
+            "request_quotation": [
+                {
+                    "id": 4,
+                    "name": "Sepatu Original Pria/Sepatu Sneakers Pria Terbaru H 3276 - navy, 44",
+                    "price": 155000,
+                    "price_rupiah": "Rp. 155.000",
+                    "images" : [
+                        "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/7/4/94873676-ed28-4f36-b0ec-4b43e955f938.jpg",
+                        "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/7/4/5e353485-f482-4841-96c4-4fad0d1751e0.jpg"
+                    ],
+                    "detail" : "",
+                    "category": {
+                        "id": 3,
+                        "name": "Sepatu"
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "Tp-link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi Router",
+                    "price": 575000,
+                    "price_rupiah": "Rp. 575.000",
+                    "images" : [
+                        "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/2/27/29534802-37d9-40b4-98df-e65974794ed9.jpg",
+                        "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2020/10/29/d089bdc7-25f7-4829-bad0-505ee0bda0ea.jpg.webp?ect=3g"
+                    ],
+                    "detail" : "",
+                    "category": {
+                        "id": 1,
+                        "name": "Elektronik"
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Philips Rice Cooker - Inner Pot 2L Bakuhanseki - HD3110/33",
+                    "price": 265000,
+                    "price_rupiah": "Rp. 265.000",
+                    "images" : [
+                        "https://images.tokopedia.net/img/cache/100-square/product-1/2020/8/10/17471812/17471812_f412f625-d443-4249-94b8-31db257d4fc7_1000_1000.webp?ect=3g",
+                        "https://images.tokopedia.net/img/cache/100-square/product-1/2020/8/10/17471812/17471812_17519a25-b498-428c-90fb-257f34271bd8_1000_1000.webp?ect=3g"
+                    ],
+                    "detail" : "",
+                    "category": {
+                        "id": 2,
+                        "name": "Dapur"
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "Tp-link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi Router",
+                    "price": 575000,
+                    "price_rupiah": "Rp. 575.000",
+                    "images" : [
+                        "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/2/27/29534802-37d9-40b4-98df-e65974794ed9.jpg",
+                        "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2020/10/29/d089bdc7-25f7-4829-bad0-505ee0bda0ea.jpg.webp?ect=3g"
+                    ],
+                    "detail" : "",
+                    "category": {
+                        "id": 1,
+                        "name": "Elektronik"
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Philips Rice Cooker - Inner Pot 2L Bakuhanseki - HD3110/33",
+                    "price": 265000,
+                    "price_rupiah": "Rp. 265.000",
+                    "images" : [
+                        "https://images.tokopedia.net/img/cache/100-square/product-1/2020/8/10/17471812/17471812_f412f625-d443-4249-94b8-31db257d4fc7_1000_1000.webp?ect=3g",
+                        "https://images.tokopedia.net/img/cache/100-square/product-1/2020/8/10/17471812/17471812_17519a25-b498-428c-90fb-257f34271bd8_1000_1000.webp?ect=3g"
+                    ],
+                    "detail" : "",
+                    "category": {
+                        "id": 2,
+                        "name": "Dapur"
+                    }
+                }
+            ],
+            "supplied_products": [
+                {
+                    "id": 1,
+                    "name": "Xiaomi Wifi Repeater Pro Amplifier 300Mbps Dual Antena Original",
+                    "price": 130000,
+                    "price_rupiah": "Rp. 130.000",
+                    "images" : [
+                        "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/6/15/10d26259-4487-4a6d-be9f-097ea5386d4f.jpg",
+                        "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2020/12/25/090ede76-6dee-4c54-8764-b573463ea1c2.jpg",
+                        "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2020/12/25/c42b84f8-8120-4614-a4a5-7b033b0b7dfe.jpg"
+                    ],
+                    "detail" : "",
+                    "category": {
+                        "id": 1,
+                        "name": "Elektronik"
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "Sepatu Original Pria/Sepatu Sneakers Pria Terbaru H 3276 - navy, 44",
+                    "price": 155000,
+                    "price_rupiah": "Rp. 155.000",
+                    "images" : [
+                        "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/7/4/94873676-ed28-4f36-b0ec-4b43e955f938.jpg",
+                        "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/7/4/5e353485-f482-4841-96c4-4fad0d1751e0.jpg"
+                    ],
+                    "detail" : "",
+                    "category": {
+                        "id": 3,
+                        "name": "Sepatu"
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "Eggel Active 2 Waterproof Portable Bluetooth Speaker",
+                    "price": 299000,
+                    "price_rupiah": "Rp. 299.000",
+                    "images" : [
+                        "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2020/11/9/c228f6fe-6b55-40a3-96ab-e0bc2a0ffd39.jpg",
+                        "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2020/11/9/fc69ecc3-09a3-48cd-a9f2-d946e61d52ea.jpg",
+                        "https://images.tokopedia.net/img/cache/100-square/VqbcmM/2020/11/9/27742bcd-559c-4a7d-8b90-85ebc8a35c69.jpg"
+                    ],
+                    "detail" : "",
+                    "category": {
+                        "id": 1,
+                        "name": "Elektronik"
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Philips Rice Cooker - Inner Pot 2L Bakuhanseki - HD3110/33",
+                    "price": 265000,
+                    "price_rupiah": "Rp. 265.000",
+                    "images" : [
+                        "https://images.tokopedia.net/img/cache/100-square/product-1/2020/8/10/17471812/17471812_f412f625-d443-4249-94b8-31db257d4fc7_1000_1000.webp?ect=3g",
+                        "https://images.tokopedia.net/img/cache/100-square/product-1/2020/8/10/17471812/17471812_17519a25-b498-428c-90fb-257f34271bd8_1000_1000.webp?ect=3g"
+                    ],
+                    "detail" : "",
+                    "category": {
+                        "id": 2,
+                        "name": "Dapur"
+                    }
+                }
+            ]
         }
     ]
 }
